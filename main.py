@@ -1,0 +1,8 @@
+print("Hello World")
+print(10)
+print(5+3)
+print("Hello GitHub 🚀")
+print("Changed from GitHub 🌐")
+print("Now pulling into VS Code")
+print("This is main branch")
+print("now working on feature branch")
